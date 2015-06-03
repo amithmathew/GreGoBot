@@ -76,4 +76,4 @@ if __name__ == '__main__':
     bot = GregoBot()
     bot.connect('GregoBot_defaults.conf')
     time.sleep(10)
-    bot.join_channel('#test1984')
+    bot.join_channel('#HelloWorld')
